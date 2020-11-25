@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431566353576",
+    "firebase_url": "https://prideapp-8d5bf.firebaseio.com",
+    "project_id": "prideapp-8d5bf",
+    "storage_bucket": "prideapp-8d5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431566353576:android:f0eb8f946fa032ae4fbe9d",
+        "android_client_info": {
+          "package_name": "com.prideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431566353576-f9en3fhu75k3kh3cjsb81uhcthb43dbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF7BvdHbr7P7_iRJguXzlD0Z7KCHX5Azo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431566353576-f9en3fhu75k3kh3cjsb81uhcthb43dbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
